@@ -1,0 +1,43 @@
+body{
+    background-image: url(5g.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+
+}
+
+.note{
+    font-size: 16px;
+    color: black;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom:0;
+    width: 100%;
+    background-color:#612626;
+    line-height: 3;
+    text-align: center;
+    
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#full{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
